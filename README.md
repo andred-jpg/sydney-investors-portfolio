@@ -1,1 +1,1 @@
-# sydney-investor-portfolio
+# sydney-investors-portfolio
